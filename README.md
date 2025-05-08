@@ -1,74 +1,73 @@
-<header>
+<!-- HEADER SECTION -->
+# 🛠️ Resolve Merge Conflicts
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+_Learn what merge conflicts are, why they happen, and how to solve them like a pro._
 
-# Resolve merge conflicts
-
-_Learn why conflicts happen and how to resolve them._
-
-</header>
-
-<!--
-  <<< Author notes: Course start >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
--->
-
-## Welcome
-
-Merge conflicts happen when two people make changes to the same file on GitHub—a common occurrence when you’re working with others. While resolving differences might involve some discussion, merge conflicts don’t have to be scary. This course guides you through the steps to finding the best merge conflict solution, so your team can keep building.
-
-- **Who is this for**: New developers, new GitHub users, users new to Git, students, managers, teams.
-- **What you'll learn**: What merge conflicts are, how you resolve merge conflicts, how to reduce merge conflicts.
-- **What you'll build**: We'll work with a short Markdown resume file in this course.
-- **Prerequisites**: We recommend taking [Introduction to GitHub](https://github.com/skills/introduction-to-github) prior to this course.
-- **How long**: This course takes less than 30 minutes to complete.
-
-In this course, you will:
-
-1. Create a pull request
-2. Resolve a merge conflict
-3. Create a merge conflict
-4. Merge your pull request
-
-### How to start this course
-
-<!-- For start course, run in JavaScript:
-'https://github.com/new?' + new URLSearchParams({
-  template_owner: 'skills',
-  template_name: 'resolve-merge-conflicts',
-  owner: '@me',
-  name: 'skills-resolve-merge-conflicts',
-  description: 'My clone repository',
-  visibility: 'public',
-}).toString()
--->
-
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=resolve-merge-conflicts&owner=%40me&name=skills-resolve-merge-conflicts&description=My+clone+repository&visibility=public)
-
-1. Right-click **Start course** and open the link in a new tab.
-2. In the new tab, most of the prompts will automatically fill in for you.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+![course-banner](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/resolve-merge-conflicts) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## 👋 Welcome, Developer!
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+Merge conflicts are part of the collaborative coding process. They occur when multiple contributors change the same part of a file — and Git needs your help deciding whose changes win.
 
-</footer>
+This hands-on course teaches you how to **identify**, **understand**, and **resolve** merge conflicts quickly and efficiently. No stress, just progress.
+
+---
+
+### 🚀 What You’ll Learn
+
+- 🔍 What merge conflicts are  
+- 🧠 How to resolve them effectively  
+- 🧹 Best practices to prevent unnecessary conflicts  
+
+---
+
+### 🧩 What You'll Build
+
+You'll work with a simple Markdown resume file to practice resolving merge conflicts step-by-step — no complex setup needed.
+
+---
+
+### 🎓 Who Should Take This Course?
+
+✅ Beginners to Git & GitHub  
+✅ Students and teams  
+✅ Developers seeking smoother collaboration  
+
+> 🧠 **Prerequisite:** We recommend completing [Introduction to GitHub](https://github.com/skills/introduction-to-github) before starting.
+
+---
+
+## 🧪 Course Outline
+
+1. ✅ Create a pull request  
+2. ⚔️ Trigger a merge conflict  
+3. 🛠️ Resolve the conflict  
+4. 🔀 Merge the pull request  
+
+---
+
+## 🏁 Start the Course
+
+Click the button below to create your own version of the course and follow the built-in guidance.
+
+[![Start Course](https://img.shields.io/badge/Start%20Course-%F0%9F%94%97-blue?style=for-the-badge)](https://github.com/new?template_owner=skills&template_name=resolve-merge-conflicts&owner=%40me&name=skills-resolve-merge-conflicts&description=My+clone+repository&visibility=public)
+
+> **Tips:**
+> - Choose your personal or org account as the repo owner  
+> - Public repos recommended (private repos use Actions minutes)  
+> - Wait ~20 seconds after repo creation before refreshing  
+
+---
+
+## 🙋 Need Help?
+
+- 💬 [Ask questions or join the discussion](https://github.com/orgs/skills/discussions/categories/resolve-merge-conflicts)  
+- 📊 [Check GitHub system status](https://www.githubstatus.com/)  
+- 📜 [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md)  
+- ⚖️ [License: MIT](https://gh.io/mit)
+
+---
+
+> © 2023 GitHub, Inc.
