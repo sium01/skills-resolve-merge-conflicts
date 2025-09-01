@@ -18,7 +18,7 @@ jobs:
 
     steps:
       - name: 🛎️ Checkout Repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - id: get_step
         name: 📥 Read Step File
@@ -38,7 +38,7 @@ jobs:
 
     steps:
       - name: 🛎️ Checkout Repo with Full History
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
